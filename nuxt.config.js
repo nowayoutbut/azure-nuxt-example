@@ -8,8 +8,7 @@ module.exports = {
    ** Headers of the page
    */
   server: {
-    port: process.env.PORT || 3000,
-    host: '0.0.0.0'
+    port: process.env.PORT || 3000
   },
   head: {
     title: pkg.name,
