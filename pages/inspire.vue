@@ -3,7 +3,8 @@
     <v-flex text-xs-center>
       <img src="/v.png" alt="Vuetify.js" class="mb-5" />
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code. Yes I Can&#8221;
+        &#8220;First, solve the problem. Then, write the code. Yes I Can<br />This
+        is a Pen!&#8221;
         <footer>
           <small>
             <em>&mdash;John Johnson</em>
