@@ -8,7 +8,6 @@ module.exports = {
    ** Headers of the page
    */
   server: {
-    host: process.env.HOST || '127.0.0.1',
     socket: process.env.PORT
   },
   head: {
